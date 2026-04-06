@@ -35,6 +35,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/pranjal-kundliya-2179b628a/
 
 ---
-
-### ⚡ Fun Line
 > "I don't just write code, I build systems that scale 🚀"
