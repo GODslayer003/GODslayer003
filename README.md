@@ -24,15 +24,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GODslayer003&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODslayer003&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GODslayer003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODslayer003&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 - 📧 Email: rohankundliya@gmail.com
-- 💼 LinkedIn: (Add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/pranjal-kundliya-2179b628a/
 
 ---
 
