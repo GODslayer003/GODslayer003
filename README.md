@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Kundliya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+AI-Powered+Scalable+Products;Three.js+%7C+GSAP+%7C+OpenAI+Integrations;Serving+10%2C000%2B+Users+Worldwide+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+AI-Powered+Scalable+Products;Three.js+%7C+GSAP+%7C+OpenAI+Integrations;Serving+10%2C000%2B+Users+Worldwide" />
 </p>
 
 <p align="center">
@@ -68,12 +68,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GODslayer003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GODslayer003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GODslayer003/GODslayer003/output/github-snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/38bdf8/GODslayer003" alt="Contribution Graph" width="90%" />
 </p>
+
 
 ---
 
