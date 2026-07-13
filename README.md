@@ -59,6 +59,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODslayer003&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GODslayer003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 ---
 
 ### ⚡ Activity & Achievements
@@ -68,13 +72,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GODslayer003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/38bdf8/GODslayer003" alt="Contribution Graph" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GODslayer003/GODslayer003/output/github-snake-dark.svg?v=1" alt="Snake animation" />
+</p>
 
 ---
 
